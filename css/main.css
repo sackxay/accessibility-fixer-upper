@@ -11,12 +11,11 @@ html {
 }
 
 a {
-  color: #568c36;
-  text-decoration: none;
+  color: #113c00;
 }
 
 a:hover {
-  color: #113c00;
+  color: #568c36;
 }
 
 .masthead {
@@ -36,7 +35,8 @@ a:hover {
   text-decoration: none;
 }
 
-.nav a:hover {
+.nav a:hover,
+.nav a:focus {
   background-color: #fff;
   color: #113c00;
 }
@@ -51,7 +51,7 @@ a:hover {
 }
 
 .prices {
-  background-color: #f5f2f0;
+  background-color: #e5e5e5;
 }
 
 th,
