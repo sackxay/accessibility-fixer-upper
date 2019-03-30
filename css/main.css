@@ -4,6 +4,7 @@ html {
 
 .color-brand {
   color: #568c36;
+  font-weight: bold;
 }
 
 .color-brand-dark {
@@ -11,7 +12,7 @@ html {
 }
 
 a {
-  color: #113c00;
+  color: #568c36;
 }
 
 a:hover {
@@ -51,7 +52,7 @@ a:hover {
 }
 
 .prices {
-  background-color: #e5e5e5;
+  background-color: #f5f2f0;
 }
 
 th,
